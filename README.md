@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, 👋 Eu sou  Wanderson Bleiner
 
 <!--
 **wbleiner/wbleiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Github Analitics
+![Wanderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbleiner&show_icons=true&theme=dark)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbleiner&layout=compact&theme=dark" alt="Wanderson's most languages"/>
+## Tech Stack
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" alt="html"/>
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" alt="css"/>
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="react"/>
+<img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter" alt="flutter"/>
+<img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart" alt="dart"/>
+<img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus" alt="c++"/>
+
+## Social Media
+<a href="https://www.linkedin.com/in/wandersonbleiner/">
+<img src="https://img.shields.io/badge/-wandersonbleiner-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
