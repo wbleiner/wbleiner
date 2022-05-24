@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 </div>
   
   
-## Contributions 
+
   
-    
-![snake gif](https://github.com/wbleiner/wbleiner/blob/output/github-contribution-grid-snake.svg)
+
