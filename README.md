@@ -38,3 +38,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-wandersonbleiner-05122A?style=flat&logo=linkedin" alt="linkedin"/>  
   </a>
 </div>
+  
+  
+## Contributions 
+    
+![snake gif](https://github.com/wbleiner/wbleiner/blob/output/github-contribution-grid-snake.svg)
