@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div.
 ## Github Analitics
 <div align="center">
   <a href="https://github.com/wbleiner">
@@ -38,4 +39,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-wandersonbleiner-05122A?style=flat&logo=linkedin" alt="linkedin"/>  
   </a>
 </div>
+##Frequência de Commits
+ 
 ![snake gif](https://github.com/wbleiner/wbleiner/blob/output/github-contribution-grid-snake.svg)
+ </div>
