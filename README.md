@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div.
+<div>
 ## Github Analitics
 <div align="center">
   <a href="https://github.com/wbleiner">
