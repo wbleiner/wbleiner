@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
+  
 ## Github Analitics
-<div align="center">
+
+  <div align="center">
   <a href="https://github.com/wbleiner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wbleiner&show_icons=true&theme=dark&"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbleiner&layout=compact&langs_count=7&theme=dark"/>
@@ -39,7 +41,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-wandersonbleiner-05122A?style=flat&logo=linkedin" alt="linkedin"/>  
   </a>
 </div>
-##Frequência de Commits
+
+## Frequência de Commits
+    
+![snake gif](https://github.com/wbleiner/wbleiner/blob/output/github-contribution-grid-snake.svg) 
  
-![snake gif](https://github.com/wbleiner/wbleiner/blob/output/github-contribution-grid-snake.svg)
- </div>
+  </div>
